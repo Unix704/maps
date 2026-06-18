@@ -78,5 +78,24 @@
       "name": "r0blox-1",
       "avatar": "https:\/\/avatars.githubusercontent.com\/u\/294706971?v=4"
     }
+  },
+  {
+    "title": "Village",
+    "version": "0.8.1, 0.7.0, 0.6.0, 0.5.0",
+    "short_description": "Map with a village",
+    "full_description": "Map with a village",
+    "thumbnail": "data\/0.8.1\/Village\/thumb_1781787071048.jpg",
+    "file": "data\/0.8.1\/Village\/Village.zip",
+    "date": "2026-06-18 15:51",
+    "type": "maps",
+    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?attachments\/1328\/",
+    "license": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/504\/",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+    },
+    "screenshots": [
+      "data\/0.8.1\/Village\/screen_1_1781787073756.jpg"
+    ]
   }
 ]
