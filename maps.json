@@ -118,5 +118,26 @@
     ],
     "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/276/",
     "original_link": "https://for-minecraft.com/maps-for-minecraft-pocket-edition/371-gta-sa-map-for-minecraft-pe-081.html"
+  },
+  {
+    "title": "Aether World",
+    "version": "0.8.1",
+    "short_description": "Aether world for MCPE 0.8.1",
+    "full_description": "",
+    "date": "2026-06-18 14:48",
+    "type": "maps",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/Aether World/thumb_1781794128835.jpg",
+    "file": "data/0.8.1/Aether World/Aether World.zip",
+    "screenshots": [
+      "data/0.8.1/Aether World/screen_1_1781794130240.jpg",
+      "data/0.8.1/Aether World/screen_2_1781794131500.jpg",
+      "data/0.8.1/Aether World/screen_3_1781794132843.jpg"
+    ],
+    "alt_link": "https://www.planetminecraft.com/project/aether-world-mcpe-081/download/worldmap/",
+    "original_link": "https://www.planetminecraft.com/project/aether-world-mcpe-081/"
   }
 ]
