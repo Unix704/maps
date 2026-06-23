@@ -80,43 +80,43 @@
     }
   },
   {
-  "title": "Super Mario 64",
-  "version": "0.8.1",
-  "short_description": "Minecraft map ",
-  "full_description": "This is a recreation of the game Super Mario 64. Not everything from the game is on this map but there is still a massive amount of detail. Any Mario fan should definitely have a look at this map.",
-  "thumbnail": "data/0.8.1/Super Mario 64/thumb_1781843230578.jpg",
-  "file": "data/0.8.1/Super Mario 64/Super Mario 64.zip",
-  "date": "2026-06-19 10:27",
-  "type": "maps",
-  "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/557/",
-  "author": {
-    "name": "r0blox-1",
-    "avatar": "https://avatars.githubusercontent.com/u/294706971?v=4"
+    "title": "Super Mario 64",
+    "version": "0.8.1",
+    "short_description": "Minecraft map ",
+    "full_description": "This is a recreation of the game Super Mario 64. Not everything from the game is on this map but there is still a massive amount of detail. Any Mario fan should definitely have a look at this map.",
+    "thumbnail": "data/0.8.1/Super Mario 64/thumb_1781843230578.jpg",
+    "file": "data/0.8.1/Super Mario 64/Super Mario 64.zip",
+    "date": "2026-06-19 10:27",
+    "type": "maps",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/557/",
+    "author": {
+      "name": "r0blox-1",
+      "avatar": "https://avatars.githubusercontent.com/u/294706971?v=4"
+    },
+    "screenshots": [
+      "data/0.8.1/Super Mario 64/screen_1_1781843235564.jpg",
+      "data/0.8.1/Super Mario 64/screen_2_1781843240792.jpg"
+    ]
   },
-  "screenshots": [
-    "data/0.8.1/Super Mario 64/screen_1_1781843235564.jpg",
-    "data/0.8.1/Super Mario 64/screen_2_1781843240792.jpg"
-  ]
-},
-{
-  "title": "Village",
-  "version": "0.8.1, 0.7.0, 0.6.0, 0.5.0",
-  "short_description": "Map with a village",
-  "full_description": "Map with a village",
-  "thumbnail": "data/0.8.1/Village/thumb_1781787071048.jpg",
-  "file": "data/0.8.1/Village/Village.zip",
-  "date": "2026-06-18 15:51",
-  "type": "maps",
-  "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/1328/",
-  "license": "http://www.nostalgiaforum.rf.gd/index.php?threads/504/",
-  "author": {
-    "name": "eqozqq",
-    "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+  {
+    "title": "Village",
+    "version": "0.8.1, 0.7.0, 0.6.0, 0.5.0",
+    "short_description": "Map with a village",
+    "full_description": "Map with a village",
+    "thumbnail": "data/0.8.1/Village/thumb_1781787071048.jpg",
+    "file": "data/0.8.1/Village/Village.zip",
+    "date": "2026-06-18 15:51",
+    "type": "maps",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/1328/",
+    "license": "http://www.nostalgiaforum.rf.gd/index.php?threads/504/",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "screenshots": [
+      "data/0.8.1/Village/screen_1_1781787073756.jpg"
+    ]
   },
-  "screenshots": [
-    "data/0.8.1/Village/screen_1_1781787073756.jpg"
-  ]
-},
   {
     "title": "GTA SA",
     "version": "0.8.1",
@@ -158,5 +158,25 @@
     ],
     "alt_link": "https://www.planetminecraft.com/project/aether-world-mcpe-081/download/worldmap/",
     "original_link": "https://www.planetminecraft.com/project/aether-world-mcpe-081/"
+  },
+  {
+    "title": "VanillaPE (server) World 1",
+    "version": "0.8.1",
+    "short_description": "Map of the first world of old MCPE 0.8.1 server VanillaPE that was made by Sliver4649",
+    "full_description": "",
+    "date": "2026-06-23 10:28",
+    "type": "maps",
+    "author": {
+      "name": "Sliver4649",
+      "avatar": "https://avatars.githubusercontent.com/u/81817514?v=4"
+    },
+    "thumbnail": "data/0.8.1/VanillaPE (server) World 1/thumb_1782210484121.jpg",
+    "file": "data/0.8.1/VanillaPE (server) World 1/VanillaPE (server) World 1.zip",
+    "screenshots": [
+      "data/0.8.1/VanillaPE (server) World 1/screen_1_1782210485921.jpg",
+      "data/0.8.1/VanillaPE (server) World 1/screen_2_1782210487600.jpg",
+      "data/0.8.1/VanillaPE (server) World 1/screen_3_1782210489309.jpg",
+      "data/0.8.1/VanillaPE (server) World 1/screen_4_1782210490838.jpg"
+    ]
   }
 ]
