@@ -287,5 +287,24 @@
     ],
     "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F041%2FDungeon-Craft%200.8.0.zip",
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977884-dungeon-craft-5-year-anniversary-updated-for-mcpe"
+  },
+  {
+    "title": "Dark Realm",
+    "version": "0.8.1",
+    "short_description": "Dark Realm [Sequel to Dungeon-Craft]",
+    "full_description": "The adventure continues... After escaping Dungeon-Craft, you are now free. But the surface world has been covered in eternal darkness. Your only hope for defeating the darkness, is to collect the nine shine blocks. But finding them will require a brave adventurer to explore the entire map and retrieve them. Will you be able to shine the light, or will you be consumed along with the rest of the world. Find out in this epic adventure, and enter... The Dark Realm!",
+    "date": "2026-06-23 19:41",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Dark Realm/thumb_1782243655676.jpg",
+    "file": "data/0.8.1/Dark Realm/Dark Realm.zip",
+    "screenshots": [
+      "data/0.8.1/Dark Realm/screen_1_1782243657204.jpg"
+    ],
+    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F84a%2FDark%20Realm%200.8.0.zip",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979942-dark-realm-sequel-to-dungeon-craft-updated-for"
   }
 ]
