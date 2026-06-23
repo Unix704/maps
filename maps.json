@@ -306,5 +306,27 @@
     ],
     "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F84a%2FDark%20Realm%200.8.0.zip",
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979942-dark-realm-sequel-to-dungeon-craft-updated-for"
+  },
+  {
+    "title": "Dimension-Door",
+    "version": "0.7.3",
+    "short_description": "Dimension-Door [Prequel to Dungeon-Craft]",
+    "full_description": "Go back to the past, before Dungeon-Craft and discover the events that take place before the adventure began. You are a magician that has been given a life-sentence in Dungeon-Craft, but you have a secret escape up your sleeve, a dimension door. The dimension door can teleport you through walls, and other dimensions. Will you escape, or never see the light of day again... adventure is knocking at Dimension-Door.\n",
+    "date": "2026-06-23 19:52",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.3/Dimension-Door/thumb_1782244336563.jpg",
+    "file": "data/0.7.3/Dimension-Door/Dimension-Door.zip",
+    "screenshots": [
+      "data/0.7.3/Dimension-Door/screen_1_1782244338281.jpg",
+      "data/0.7.3/Dimension-Door/screen_2_1782244339816.jpg",
+      "data/0.7.3/Dimension-Door/screen_3_1782244341558.jpg",
+      "data/0.7.3/Dimension-Door/screen_4_1782244343197.jpg"
+    ],
+    "alt_link": "https://www.mediafire.com/download/j8k2tutty525nsz/Dimension-Door.zip",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981720-dimension-door-prequel-to-dungeon-craft-updated"
   }
 ]
