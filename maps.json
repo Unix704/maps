@@ -637,5 +637,24 @@
       "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_3_1782340593751.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978535-fvdiscos-sonic-the-hedgehog-minigame-sprint"
+  },
+  {
+    "title": "Super Mario Bros parkour map",
+    "version": "0.7.3",
+    "short_description": "This is a parkour map about Super Mario Bros, It's a very funny map I hope you like it! Newest update Map version 0.7.3 Created for 0.7.3",
+    "full_description": "",
+    "date": "2026-06-24 22:44",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.3/Super Mario Bros parkour map/thumb_1782341070211.jpg",
+    "file": "data/0.7.3/Super Mario Bros parkour map/Super Mario Bros parkour map.zip",
+    "screenshots": [
+      "data/0.7.3/Super Mario Bros parkour map/screen_1_1782341072149.jpg",
+      "data/0.7.3/Super Mario Bros parkour map/screen_2_1782341074204.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20140806222942/http://www.minecraftforum.net:80/forums/minecraft-pocket-edition/mcpe-maps/1977817-super-mario-bros-parkour-map-new-map-version-0-7-3"
   }
 ]
