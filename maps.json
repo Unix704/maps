@@ -718,5 +718,25 @@
       "data/0.7.5/Multi Run Mini Game [4 races in 1 map!]/screen_3_1782343065069.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1982462-mcpe-multi-run-mini-game-4-races-in-1-map-download"
+  },
+  {
+    "title": "Herobrines Mansion Map",
+    "version": "0.6.1",
+    "short_description": "PE Port of Herobrines Mansion Creative",
+    "full_description": "",
+    "date": "2026-06-24 23:30",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Herobrines Mansion Map/thumb_1782343790294.jpg",
+    "file": "data/0.6.1/Herobrines Mansion Map/Herobrines Mansion Map.zip",
+    "screenshots": [
+      "data/0.6.1/Herobrines Mansion Map/screen_1_1782343792122.jpg",
+      "data/0.6.1/Herobrines Mansion Map/screen_2_1782343793760.jpg",
+      "data/0.6.1/Herobrines Mansion Map/screen_3_1782343795604.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978425-herobrines-mansion-over-30-000-download-on-mcpe"
   }
 ]
