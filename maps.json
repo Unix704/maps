@@ -677,5 +677,26 @@
       "data/0.7.3/Super Craft Bros Brawl 2.5/screen_4_1782342211462.jpg"
     ],
     "original_link": "https://web.archive.org/web/20130912061748/http://www.minecraftforum.net/topic/1713878-by-team-serperior-super-craft-bros-brawl-25-updated-with-all-new-classses-and-a-battlefield/"
+  },
+  {
+    "title": "The Teacher minigame",
+    "version": "0.6.1",
+    "short_description": "The Teacher is a minigame made by NoahCraftFTW for the pc",
+    "full_description": "The Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
+    "date": "2026-06-24 23:09",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/The Teacher minigame/thumb_1782342588479.jpg",
+    "file": "data/0.6.1/The Teacher minigame/The Teacher minigame.zip",
+    "screenshots": [
+      "data/0.6.1/The Teacher minigame/screen_1_1782342590352.jpg",
+      "data/0.6.1/The Teacher minigame/screen_2_1782342591975.jpg",
+      "data/0.6.1/The Teacher minigame/screen_3_1782342593625.jpg",
+      "data/0.6.1/The Teacher minigame/screen_4_1782342595658.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979794-hot-topic-the-teacher-minigame-download-link"
   }
 ]
