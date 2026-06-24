@@ -779,5 +779,23 @@
       "data/0.6.1/Hogwarts Map/screen_3_1782345033218.jpg"
     ],
     "original_link": "http://minecraftpeworlds.blogspot.com/2013/05/hogwarts-map.html"
+  },
+  {
+    "title": "Redstone Alternative Tutorial Map",
+    "version": "0.7.2",
+    "short_description": "This map features Redstone Alternative Tutorials! So you can use those contraptions in an Adventure Map!",
+    "full_description": "FAQ\n\n    Q: WHAT IS REDSTONE ALTERNATIVE?\n    A: REDSTONE ALTERNATIVE IS MAKING A INTERACTIVE CONTRAPTION WITHOUT REDSTONE, FOR EXAMPLE, MAKING A GATE WIHOUT REDSTONE!\n    Q: WHAT WILL I LEARN IN THIS TUTORIAL MAP?\n    A: YOU’LL LEARN HOW TO MAKE A GATE, TIMER, PRESURE PLATE,  AND A LOT MORE…",
+    "date": "2026-06-24 23:56",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.2/Redstone Alternative Tutorial Map/thumb_1782345363268.jpg",
+    "file": "data/0.7.2/Redstone Alternative Tutorial Map/Redstone Alternative Tutorial Map.zip",
+    "screenshots": [
+      "data/0.7.2/Redstone Alternative Tutorial Map/screen_1_1782345365409.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20130910104651/http://mcpeuniverse.com/maps/redstone-alternative-tutorial-map/"
   }
 ]
