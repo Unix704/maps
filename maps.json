@@ -331,5 +331,25 @@
     ],
     "alt_link": "https://www.mediafire.com/download/j8k2tutty525nsz/Dimension-Door.zip",
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981720-dimension-door-prequel-to-dungeon-craft-updated"
+  },
+  {
+    "title": "Dungeon-Craft: TacoTony's Escape Part 1",
+    "version": "0.8.1",
+    "short_description": "Another adventure map in the Dungeon-Craft series continues.",
+    "full_description": "It takes place after Dimension Door, but before Dungeon-Craft. Confusing isn’t it? Anyways, you play as TacoTony, an employee of Dungeon-Craft. Your job is to file paperwork, which is really boring. One day, you decide you’ve had enough and want to go on an exciting adventure. It won’t be easy, but you have something special that will be very useful. Gravity gravel. With it, you have the ability to reverse gravity, allowing you to walk on the walls! For real! You will be able to flip entire rooms in this map to escape! Don’t believe me, then download and see for yourself. So don’t fall, but take a trip through TacoTony’s Escape!",
+    "date": "2026-06-24 04:25",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/thumb_1782275106748.jpg",
+    "file": "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/Dungeon-Craft: TacoTony's Escape Part 1.zip",
+    "screenshots": [
+      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/screen_1_1782275108809.jpg",
+      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/screen_2_1782275110854.jpg",
+      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/screen_3_1782275112287.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20170822232655/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/2106801-dungeon-craft-tacotonys-escape-part-1-2-out-now"
   }
 ]
