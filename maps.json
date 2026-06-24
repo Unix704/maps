@@ -535,5 +535,23 @@
       "data/0.6.1/Capture the Wool/screen_2_1782329070721.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979715-capture-the-wool-very-fun-pvp-madness"
+  },
+  {
+    "title": "McDonald’s Parkour",
+    "version": "0.8.1",
+    "short_description": "Can you use your parkour skills and brain to get to the happy meal. Don’t forget to eat yr carrots",
+    "full_description": "",
+    "date": "2026-06-24 21:17",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/McDonald’s Parkour/thumb_1782335813170.jpg",
+    "file": "data/0.8.1/McDonald’s Parkour/McDonald’s Parkour.zip",
+    "screenshots": [
+      "data/0.8.1/McDonald’s Parkour/screen_1_1782335815118.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20140707004533/http://mcpeuniverse.com/maps/mcdonalds-parkour/"
   }
 ]
