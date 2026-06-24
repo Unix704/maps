@@ -575,5 +575,26 @@
     ],
     "original_link": "https://web.archive.org/web/20131109045812/http://mcpeuniverse.com/maps/imini-games-park-v5-5-the-smooth-era/",
     "license": "@Maftzer3 Map Maker 2011"
+  },
+  {
+    "title": "Epic Sprint Map",
+    "version": "0.6.1",
+    "short_description": "Welcome To Epic Sprint Map! The Sprint Parkour World",
+    "full_description": "Epic Sprint Map is a unique parkour map that uses the Sprint Mod to be at it's best. The entire course will take you through 15 stages that are each very fun and eye-popping. Over three weeks went into building, and at last, Epic Sprint Map is finally here!",
+    "date": "2026-06-24 22:02",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Epic Sprint Map/thumb_1782338550519.jpg",
+    "file": "data/0.6.1/Epic Sprint Map/Epic Sprint Map.zip",
+    "screenshots": [
+      "data/0.6.1/Epic Sprint Map/screen_1_1782338552476.jpg",
+      "data/0.6.1/Epic Sprint Map/screen_2_1782338554126.jpg",
+      "data/0.6.1/Epic Sprint Map/screen_3_1782338555553.jpg",
+      "data/0.6.1/Epic Sprint Map/screen_4_1782338557395.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978448-epic-sprint-map-sprint-parkour-15-stages-unique"
   }
 ]
