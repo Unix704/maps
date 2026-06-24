@@ -516,5 +516,24 @@
       "data/0.4.0/The Walls PvP/screen_4_1782328661620.jpg"
     ],
     "original_link": "https://web.archive.org/web/20121029094445/http://www.minecraftforum.net/topic/1475613-minecraft-pe-the-walls-pvp-released-now/"
+  },
+  {
+    "title": "Capture the Wool",
+    "version": "0.6.1",
+    "short_description": "Converted by Serperior",
+    "full_description": "Welcome to the topic that is home to a Capture the Wool map that took a while to convert to Pocket Edition! I spent weeks on this and would appreciate the support if you decided to download!",
+    "date": "2026-06-24 19:24",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Capture the Wool/thumb_1782329067967.jpg",
+    "file": "data/0.6.1/Capture the Wool/Capture the Wool.zip",
+    "screenshots": [
+      "data/0.6.1/Capture the Wool/screen_1_1782329069389.jpg",
+      "data/0.6.1/Capture the Wool/screen_2_1782329070721.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979715-capture-the-wool-very-fun-pvp-madness"
   }
 ]
