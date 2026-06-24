@@ -617,5 +617,25 @@
       "data/0.6.1/Nick's Parkour Center/screen_4_1782339734112.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979316-hot-topic-0-7-1-11000-downloads-npc-nicks-parkour"
+  },
+  {
+    "title": "Sonic The Hedgehog Minigame Sprint Parkour",
+    "version": "0.6.1",
+    "short_description": "FVDisco's Sonic The Hedgehog Minigame [sprint parkour] [ported from pc]",
+    "full_description": "This is the Sonic the Hedgehog minigame.This map was made on PC by FVDisco. I ported and edited this map.This is a If you want to play this map,you have to download the sprint mod.The objective of this map is to complete the course in the best time possible.Play in creative.If you fall,fly back to the last block you were on.",
+    "date": "2026-06-24 22:36",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/thumb_1782340588621.jpg",
+    "file": "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/Sonic The Hedgehog Minigame Sprint Parkour.zip",
+    "screenshots": [
+      "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_1_1782340590478.jpg",
+      "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_2_1782340592112.jpg",
+      "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_3_1782340593751.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978535-fvdiscos-sonic-the-hedgehog-minigame-sprint"
   }
 ]
