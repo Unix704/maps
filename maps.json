@@ -385,5 +385,23 @@
     "file": "data/0.5.0/Survival Island PE/Survival Island PE.zip",
     "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2F462%2FSurvival%20Island%20%28P.E%29.zip",
     "original_link": "https://www.youtube.com/watch?v=zpSUUGUBpQs"
+  },
+  {
+    "title": "Fallen Kingdom Mcpe",
+    "version": "0.8.1",
+    "short_description": "Finally you can explore, play, and reenact the parody in MC Pocket Edition!",
+    "full_description": "",
+    "date": "2026-06-24 17:34",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Fallen Kingdom Mcpe/thumb_1782322478364.jpg",
+    "file": "data/0.8.1/Fallen Kingdom Mcpe/Fallen Kingdom Mcpe.zip",
+    "screenshots": [
+      "data/0.8.1/Fallen Kingdom Mcpe/screen_1_1782322479587.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1535243-fallen-kingdom-near-perfect-replica-w-terrain-open"
   }
 ]
