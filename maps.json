@@ -553,5 +553,27 @@
       "data/0.8.1/McDonald’s Parkour/screen_1_1782335815118.jpg"
     ],
     "original_link": "https://web.archive.org/web/20140707004533/http://mcpeuniverse.com/maps/mcdonalds-parkour/"
+  },
+  {
+    "title": "iMini Games Park",
+    "version": "0.7.6",
+    "short_description": "With Many Popular Mini Games Like Cops N’ Robbers, Battle Ladder, Spleef, PvP And More!",
+    "full_description": "iMini Games Park Beta Love Playing Mini Games? But Dont Want To Be Downloading Many Maps? Dont Want To Run Out Of Memory? Well Now You Dont Have To Worry About Any Of Does Problem With Mini Games Park You Will Be Entertain For Hours!\n\nYou Wont Get Bored :) Like The Map?\n\nOver 10,000+ Downloads All Versions\n\nNews: v5.5 Dev Is Out :)\n\nPlease Leave A Like :) v5.5 Dev -Bug Fixes A Lot Of Them",
+    "date": "2026-06-24 21:44",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.6/iMini Games Park/thumb_1782337441751.jpg",
+    "file": "data/0.7.6/iMini Games Park/iMini Games Park.zip",
+    "screenshots": [
+      "data/0.7.6/iMini Games Park/screen_1_1782337443477.jpg",
+      "data/0.7.6/iMini Games Park/screen_2_1782337445217.jpg",
+      "data/0.7.6/iMini Games Park/screen_3_1782337446753.jpg",
+      "data/0.7.6/iMini Games Park/screen_4_1782337448391.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20131109045812/http://mcpeuniverse.com/maps/imini-games-park-v5-5-the-smooth-era/",
+    "license": "@Maftzer3 Map Maker 2011"
   }
 ]
