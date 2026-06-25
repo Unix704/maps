@@ -853,5 +853,26 @@
       "data/0.6.1/The Nether Reactor Adventure Map/screen_3_1782346293875.jpg"
     ],
     "original_link": "https://www.planetminecraft.com/project/060-compatible-nether-reactor-adventure-map-for-mc-pe-/"
+  },
+  {
+    "title": "Toy Story 2 Adventure Map 1.2",
+    "version": "0.6.1",
+    "short_description": "This map was originally built by PitchBlackPL. I have spent the last few weeks making it completely compatible for Minecraft Pocket.",
+    "full_description": "",
+    "date": "2026-06-25 00:21",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Toy Story 2 Adventure Map 1.2/thumb_1782346904381.jpg",
+    "file": "data/0.6.1/Toy Story 2 Adventure Map 1.2/Toy Story 2 Adventure Map 1.2.zip",
+    "screenshots": [
+      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_1_1782346905926.jpg",
+      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_2_1782346907354.jpg",
+      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_3_1782346908992.jpg",
+      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_4_1782346910642.jpg"
+    ],
+    "original_link": "http://minecraftpeworlds.blogspot.com/p/toy-story-2-mcpe.html"
   }
 ]
