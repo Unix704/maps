@@ -818,5 +818,20 @@
       "data/0.7.2/Skyblock Survival Ultimate v2.3/screen_4_1782345680802.jpg"
     ],
     "original_link": "https://www.planetminecraft.com/project/skyblock-survival-ultimate-v10-for-mcpe-minecraft-pocket-edition-040/"
+  },
+  {
+    "title": "SkyGrid PE Map",
+    "version": "0.6.1",
+    "short_description": "The awesome PC map made by SethBling is now fully compatible with Pocket Edition! Using Sethblings filter for MCEdit I made the blocks closer together and filtered out the incompatible blocks.",
+    "full_description": "",
+    "date": "2026-06-25 00:04",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/SkyGrid PE Map/thumb_1782345845778.jpg",
+    "file": "data/0.6.1/SkyGrid PE Map/SkyGrid PE Map.zip",
+    "original_link": "http://minecraftpeworlds.blogspot.com/2013/07/skygrid-pe.html"
   }
 ]
