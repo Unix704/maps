@@ -833,5 +833,25 @@
     "thumbnail": "data/0.6.1/SkyGrid PE Map/thumb_1782345845778.jpg",
     "file": "data/0.6.1/SkyGrid PE Map/SkyGrid PE Map.zip",
     "original_link": "http://minecraftpeworlds.blogspot.com/2013/07/skygrid-pe.html"
+  },
+  {
+    "title": "The Nether Reactor Adventure Map",
+    "version": "0.6.1",
+    "short_description": "This is the *First* that I know of that uses \"Nether Reactor's\", Above is one of 4 images of the map",
+    "full_description": "",
+    "date": "2026-06-25 00:11",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/The Nether Reactor Adventure Map/thumb_1782346288968.jpg",
+    "file": "data/0.6.1/The Nether Reactor Adventure Map/The Nether Reactor Adventure Map.rar",
+    "screenshots": [
+      "data/0.6.1/The Nether Reactor Adventure Map/screen_1_1782346290705.jpg",
+      "data/0.6.1/The Nether Reactor Adventure Map/screen_2_1782346292441.jpg",
+      "data/0.6.1/The Nether Reactor Adventure Map/screen_3_1782346293875.jpg"
+    ],
+    "original_link": "https://www.planetminecraft.com/project/060-compatible-nether-reactor-adventure-map-for-mc-pe-/"
   }
 ]
