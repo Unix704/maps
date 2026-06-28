@@ -476,22 +476,23 @@
     "title": "Skyfall",
     "version": "0.8.1",
     "short_description": "Skydiving in Minecraft Pocket Edition 0.8.1!",
-    "full_description": "",
+    "full_description": "(Map Creator: TheGamingPotato)",
     "date": "2026-06-24 18:52",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Skyfall/thumb_1782327124013.jpg",
+    "original_link": "https://web.archive.org/web/20141022185048/http://mcpeuniverse.com/maps/skyfall/",
     "file": "data/0.8.1/Skyfall/Skyfall.zip",
+    "thumbnail": "data/0.8.1/Skyfall/thumb_1782327124013.jpg",
     "screenshots": [
       "data/0.8.1/Skyfall/screen_1_1782327125472.jpg",
       "data/0.8.1/Skyfall/screen_2_1782327126701.jpg",
       "data/0.8.1/Skyfall/screen_3_1782327128237.jpg",
       "data/0.8.1/Skyfall/screen_4_1782327129772.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20141022185048/http://mcpeuniverse.com/maps/skyfall/"
+    "updated_date": "2026-06-28 23:04"
   },
   {
     "title": "FreeFalling Skydiving Map",
