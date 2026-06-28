@@ -417,19 +417,20 @@
     "title": "Ant Farm Survival PE",
     "version": "0.4.0",
     "short_description": "Ant Farm Survival PE 0.4.0",
-    "full_description": "Rules:\nDont break glass\nDont use mods or hack blocks\n\nChallenges:\nFind the hidden sapling farm\nFind all the areas that have a torch\nGet 20 white wool and 5 red wool\nMake a tree farm\nMake 10 book shelves\nMake a wheat farm(20 farmland)\nMake a diamond pickaxe\n",
+    "full_description": "(Map Creator: mcTATTISSHD)\n\nRules:\nDont break glass\nDont use mods or hack blocks\n\nChallenges:\nFind the hidden sapling farm\nFind all the areas that have a torch\nGet 20 white wool and 5 red wool\nMake a tree farm\nMake 10 book shelves\nMake a wheat farm(20 farmland)\nMake a diamond pickaxe",
     "date": "2026-06-24 18:20",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.4.0/Ant Farm Survival PE/thumb_1782325238414.jpg",
+    "original_link": "https://web.archive.org/web/20130616072954/http://www.minecraftforum.net/topic/1499500-ant-farm-survival/",
     "file": "data/0.4.0/Ant Farm Survival PE/Ant Farm Survival PE.zip",
+    "thumbnail": "data/0.4.0/Ant Farm Survival PE/thumb_1782325238414.jpg",
     "screenshots": [
       "data/0.4.0/Ant Farm Survival PE/screen_1_1782325240761.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20130616072954/http://www.minecraftforum.net/topic/1499500-ant-farm-survival/"
+    "updated_date": "2026-06-28 22:56"
   },
   {
     "title": "Skydiving Map",
