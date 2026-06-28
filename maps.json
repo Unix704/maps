@@ -455,21 +455,22 @@
     "title": "The Dropper PE",
     "version": "0.4.0",
     "short_description": "This is my map \"THE DROPPER\" for Minecraft pocket edition.",
-    "full_description": "",
+    "full_description": "(Map Creator: Bigre)",
     "date": "2026-06-24 18:36",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.4.0/The Dropper PE/thumb_1782326185839.jpg",
+    "original_link": "https://web.archive.org/web/20130523020233/https://www.minecraftforum.net/topic/1558092-advpuzz-the-dropper-for-minecraft-pocket-edition/",
     "file": "data/0.4.0/The Dropper PE/The Dropper PE.zip",
+    "thumbnail": "data/0.4.0/The Dropper PE/thumb_1782326185839.jpg",
     "screenshots": [
       "data/0.4.0/The Dropper PE/screen_1_1782326187570.jpg",
       "data/0.4.0/The Dropper PE/screen_2_1782326188899.jpg",
       "data/0.4.0/The Dropper PE/screen_3_1782326190443.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20130523020233/https://www.minecraftforum.net/topic/1558092-advpuzz-the-dropper-for-minecraft-pocket-edition/"
+    "updated_date": "2026-06-28 23:03"
   },
   {
     "title": "Skyfall",
