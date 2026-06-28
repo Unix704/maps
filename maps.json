@@ -183,20 +183,21 @@
     "title": "Archery Adventure",
     "version": "0.8.1",
     "short_description": "Your objective is to complete the map but your only weapon is bow.  This map tests your skills with bow and also your parkour skills.",
-    "full_description": "This map includes:\n\n*Target practice\n\n*Parkour\n\n*Rollercoasters\n\n*Lots of unique levels\n\n*Redstone alternatives\n\n*Zombie pigmen fights",
+    "full_description": "This map includes:\n\n*Target practice\n\n*Parkour\n\n*Rollercoasters\n\n*Lots of unique levels\n\n*Redstone alternatives\n\n*Zombie pigmen fights\n\n(Created by: Valtersss123)",
     "date": "2026-06-23 16:28",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Archery Adventure/thumb_1782232097499.jpg",
+    "original_link": "https://web.archive.org/web/20141027041750/http://mcpeuniverse.com/maps/archery-adventure/",
     "file": "data/0.8.1/Archery Adventure/Archery Adventure.zip",
+    "thumbnail": "data/0.8.1/Archery Adventure/thumb_1782232097499.jpg",
     "screenshots": [
       "data/0.8.1/Archery Adventure/screen_1_1782232100050.jpg",
       "data/0.8.1/Archery Adventure/screen_2_1782232103020.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20141027041750/http://mcpeuniverse.com/maps/archery-adventure/"
+    "updated_date": "2026-06-28 22:29"
   },
   {
     "title": "Archery skills map",
