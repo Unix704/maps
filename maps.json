@@ -514,22 +514,23 @@
     "title": "The Walls PvP",
     "version": "0.4.0",
     "short_description": "The Walls PvP For Minecraft Pocket Edition",
-    "full_description": "The anticipated walls map for PE is out now!!!\nIt's up to 8 players(2 per team).\n\nRules:\n1.Once you spawn it will take about 1 minute to turn night,sleep in the bed so you spawn on the spawn area\nand not play again.\n2.No breaking the sand wall or the stone brick wall surrounding the pvp arena.\n3.Only one person can win.\n4.You must activate the wall destroyer after 3 days.\n5.You cannot go to other quadrants until the 3 days pass.\n6.You cannot build pass the wall.\nYou cannot build under the wall\n7You must have fun Posted Image",
+    "full_description": "(Map Creator: LosAngelesChepes)\n\nThe anticipated walls map for PE is out now!!!\nIt's up to 8 players(2 per team).\n\nRules:\n1.Once you spawn it will take about 1 minute to turn night,sleep in the bed so you spawn on the spawn area\nand not play again.\n2.No breaking the sand wall or the stone brick wall surrounding the pvp arena.\n3.Only one person can win.\n4.You must activate the wall destroyer after 3 days.\n5.You cannot go to other quadrants until the 3 days pass.\n6.You cannot build pass the wall.\nYou cannot build under the wall\n7You must have fun Posted Image",
     "date": "2026-06-24 19:17",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.4.0/The Walls PvP/thumb_1782328655485.jpg",
+    "original_link": "https://web.archive.org/web/20121029094445/http://www.minecraftforum.net/topic/1475613-minecraft-pe-the-walls-pvp-released-now/",
     "file": "data/0.4.0/The Walls PvP/The Walls PvP.zip",
+    "thumbnail": "data/0.4.0/The Walls PvP/thumb_1782328655485.jpg",
     "screenshots": [
       "data/0.4.0/The Walls PvP/screen_1_1782328657420.jpg",
       "data/0.4.0/The Walls PvP/screen_2_1782328658855.jpg",
       "data/0.4.0/The Walls PvP/screen_3_1782328660085.jpg",
       "data/0.4.0/The Walls PvP/screen_4_1782328661620.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20121029094445/http://www.minecraftforum.net/topic/1475613-minecraft-pe-the-walls-pvp-released-now/"
+    "updated_date": "2026-06-28 23:07"
   },
   {
     "title": "Capture the Wool",
