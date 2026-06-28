@@ -904,19 +904,20 @@
     "title": "Sand Scrambler By Ace",
     "version": "0.6.1",
     "short_description": "Burn the wood above you with flint and steel and sand will start falling, last person standing wins",
-    "full_description": "Video By JackFrostMiner: https://www.youtube.com/watch?v=WCOq6O5EqFM",
+    "full_description": "(Map Creator: Ace)\n\nVideo By JackFrostMiner: https://www.youtube.com/watch?v=WCOq6O5EqFM",
     "date": "2026-06-25 00:33",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Sand Scrambler By Ace/thumb_1782347576278.jpg",
+    "original_link": "https://www.youtube.com/watch?v=WCOq6O5EqFM",
     "file": "data/0.6.1/Sand Scrambler By Ace/Sand Scrambler By Ace.zip",
+    "thumbnail": "data/0.6.1/Sand Scrambler By Ace/thumb_1782347576278.jpg",
     "screenshots": [
       "data/0.6.1/Sand Scrambler By Ace/screen_1_1782347579109.jpg"
     ],
-    "original_link": "https://www.youtube.com/watch?v=WCOq6O5EqFM"
+    "updated_date": "2026-06-28 23:28"
   },
   {
     "title": "Ollan Island PE",
