@@ -398,19 +398,20 @@
     "title": "Fallen Kingdom Mcpe",
     "version": "0.8.1",
     "short_description": "Finally you can explore, play, and reenact the parody in MC Pocket Edition!",
-    "full_description": "",
+    "full_description": "(Map Creator: TeamWyldcraft)",
     "date": "2026-06-24 17:34",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Fallen Kingdom Mcpe/thumb_1782322478364.jpg",
+    "original_link": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1535243-fallen-kingdom-near-perfect-replica-w-terrain-open",
     "file": "data/0.8.1/Fallen Kingdom Mcpe/Fallen Kingdom Mcpe.zip",
+    "thumbnail": "data/0.8.1/Fallen Kingdom Mcpe/thumb_1782322478364.jpg",
     "screenshots": [
       "data/0.8.1/Fallen Kingdom Mcpe/screen_1_1782322479587.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1535243-fallen-kingdom-near-perfect-replica-w-terrain-open"
+    "updated_date": "2026-06-28 22:53"
   },
   {
     "title": "Ant Farm Survival PE",
