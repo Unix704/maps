@@ -277,21 +277,22 @@
     "title": "Dungeon-Craft",
     "version": "0.8.1",
     "short_description": "Dungeon-Craft isn't a map built in 3 minutes, it's an adventure.",
-    "full_description": "It's full of content and quality. The gameplay consists of jumping puzzles, collecting, and mazes. Most of the jumping is auto-jump for beginners, but there are jumps that will be more on level with skilled players. The game is set in an underground dungeon. But rumors say there's more down there than just dungeons. Will you be able to escape, find out in this exciting map, Dungeon-Craft. Watch this trailer if you want to see what's in store for you in Dungeon-Craft.\n",
+    "full_description": "(Map Creator: Furminator)\n\nIt's full of content and quality. The gameplay consists of jumping puzzles, collecting, and mazes. Most of the jumping is auto-jump for beginners, but there are jumps that will be more on level with skilled players. The game is set in an underground dungeon. But rumors say there's more down there than just dungeons. Will you be able to escape, find out in this exciting map, Dungeon-Craft. Watch this trailer if you want to see what's in store for you in Dungeon-Craft.\n",
     "date": "2026-06-23 19:35",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Dungeon-Craft/thumb_1782243342219.jpg",
+    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F041%2FDungeon-Craft%200.8.0.zip",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977884-dungeon-craft-5-year-anniversary-updated-for-mcpe",
     "file": "data/0.8.1/Dungeon-Craft/Dungeon-Craft.zip",
+    "thumbnail": "data/0.8.1/Dungeon-Craft/thumb_1782243342219.jpg",
     "screenshots": [
       "data/0.8.1/Dungeon-Craft/screen_1_1782243343545.jpg",
       "data/0.8.1/Dungeon-Craft/screen_2_1782243344978.jpg"
     ],
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F041%2FDungeon-Craft%200.8.0.zip",
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977884-dungeon-craft-5-year-anniversary-updated-for-mcpe"
+    "updated_date": "2026-06-28 22:43"
   },
   {
     "title": "Dark Realm 0.8.0",
