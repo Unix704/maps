@@ -555,19 +555,20 @@
     "title": "McDonald’s Parkour",
     "version": "0.8.1",
     "short_description": "Can you use your parkour skills and brain to get to the happy meal. Don’t forget to eat yr carrots",
-    "full_description": "",
+    "full_description": "(Map Creator: SuperpigCreator)",
     "date": "2026-06-24 21:17",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/McDonald’s Parkour/thumb_1782335813170.jpg",
+    "original_link": "https://web.archive.org/web/20140707004533/http://mcpeuniverse.com/maps/mcdonalds-parkour/",
     "file": "data/0.8.1/McDonald’s Parkour/McDonald’s Parkour.zip",
+    "thumbnail": "data/0.8.1/McDonald’s Parkour/thumb_1782335813170.jpg",
     "screenshots": [
       "data/0.8.1/McDonald’s Parkour/screen_1_1782335815118.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20140707004533/http://mcpeuniverse.com/maps/mcdonalds-parkour/"
+    "updated_date": "2026-06-28 23:09"
   },
   {
     "title": "iMini Games Park",
