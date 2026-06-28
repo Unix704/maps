@@ -941,17 +941,18 @@
   {
     "title": "School Rules Adventure Map",
     "version": "0.8.1",
-    "short_description": "A new cool Map :)  It call School Rules!",
-    "full_description": "Rules:\n\n\nNod Mods\n\nNO CHEAT \n\nDONT PLAY ON PEACEFUL!\n\nHave fun♥ =)",
+    "short_description": "A new cool Map :) It's call School Rules!",
+    "full_description": "(Map Creator: KevkeTheGator)\n\nRules:\n\n\nNod Mods\n\nNO CHEAT \n\nDONT PLAY ON PEACEFUL!\n\nHave fun♥ =)",
     "date": "2026-06-25 00:55",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/School Rules Adventure Map/thumb_1782348931116.jpg",
+    "original_link": "https://web.archive.org/web/20140601063855/http://mcpeuniverse.com/maps/mcpe-0-8-1-school-rules-adventure-map/",
     "file": "data/0.8.1/School Rules Adventure Map/School Rules Adventure Map.zip",
-    "original_link": "https://web.archive.org/web/20140601063855/http://mcpeuniverse.com/maps/mcpe-0-8-1-school-rules-adventure-map/"
+    "thumbnail": "data/0.8.1/School Rules Adventure Map/thumb_1782348931116.jpg",
+    "updated_date": "2026-06-28 23:30"
   },
   {
     "title": "xPoizon’s Theme Park",
