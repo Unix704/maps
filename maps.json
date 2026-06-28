@@ -436,19 +436,20 @@
     "title": "Skydiving Map",
     "version": "0.5.0",
     "short_description": "Skydiving in Minecraft Pocket Edition!",
-    "full_description": "Have you ever wanted to go skydiving? Well I have created a map where you can literally jump off a perfectly good airplane, and try to land in the target area! Try not to die... You already signed the waver!\nOn this map your goal is to survive the jump, and make it through the red rings!\n",
+    "full_description": "(Map Creator: Khooplah)\n\nHave you ever wanted to go skydiving? Well I have created a map where you can literally jump off a perfectly good airplane, and try to land in the target area! Try not to die... You already signed the waver!\nOn this map your goal is to survive the jump, and make it through the red rings!\n",
     "date": "2026-06-24 18:29",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.5.0/Skydiving Map/thumb_1782325757387.jpg",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977209-sky-diving",
     "file": "data/0.5.0/Skydiving Map/Skydiving Map.zip",
+    "thumbnail": "data/0.5.0/Skydiving Map/thumb_1782325757387.jpg",
     "screenshots": [
       "data/0.5.0/Skydiving Map/screen_1_1782325759119.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977209-sky-diving"
+    "updated_date": "2026-06-28 23:01"
   },
   {
     "title": "The Dropper PE",
