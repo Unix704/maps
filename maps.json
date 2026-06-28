@@ -785,21 +785,22 @@
     "title": "Hogwarts Map",
     "version": "0.6.1",
     "short_description": "Welcome to the School of Witchcraft and Wizardry ",
-    "full_description": "",
+    "full_description": "(Map Creator: MCPEPorts)",
     "date": "2026-06-24 23:50",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Hogwarts Map/thumb_1782345028746.jpg",
+    "original_link": "http://minecraftpeworlds.blogspot.com/2013/05/hogwarts-map.html",
     "file": "data/0.6.1/Hogwarts Map/Hogwarts Map.zip",
+    "thumbnail": "data/0.6.1/Hogwarts Map/thumb_1782345028746.jpg",
     "screenshots": [
       "data/0.6.1/Hogwarts Map/screen_1_1782345030365.jpg",
       "data/0.6.1/Hogwarts Map/screen_2_1782345031638.jpg",
       "data/0.6.1/Hogwarts Map/screen_3_1782345033218.jpg"
     ],
-    "original_link": "http://minecraftpeworlds.blogspot.com/2013/05/hogwarts-map.html"
+    "updated_date": "2026-06-28 23:21"
   },
   {
     "title": "Redstone Alternative Tutorial Map",
