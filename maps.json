@@ -1052,5 +1052,27 @@
     ],
     "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013.zip/Minecraft%20Pocket%20Edition%2F2013%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2Fbaa%2FDuck%20Hunter%20Multiplayer.zip",
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977767-duck-hunter-multiplayer-mini-game-update"
+  },
+  {
+    "title": "Von_Fatalis Castle V16",
+    "version": "0.7.6",
+    "short_description": "I have spent quiet a month for building this world on the pocket edition.I will share with you the results of my efforts",
+    "full_description": "(Map Creator: Von_Fatalis)\n",
+    "date": "2026-06-29 04:30",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.6/Von_Fatalis Castle V16/thumb_1782707397656.jpg",
+    "file": "data/0.7.6/Von_Fatalis Castle V16/Von_Fatalis Castle V16.zip",
+    "screenshots": [
+      "data/0.7.6/Von_Fatalis Castle V16/screen_1_1782707400547.jpg",
+      "data/0.7.6/Von_Fatalis Castle V16/screen_2_1782707401976.jpg",
+      "data/0.7.6/Von_Fatalis Castle V16/screen_3_1782707403310.jpg",
+      "data/0.7.6/Von_Fatalis Castle V16/screen_4_1782707404928.jpg"
+    ],
+    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201611%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2Fd3f%2Fdownload_w7y9r6j460gdwll_Castle_Von_Fatalis_creative_V16.zip",
+    "original_link": "https://web.archive.org/web/20171227225745/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1975038-update-v-16-von_fatalis-castle-map-the-biggest"
   }
 ]
