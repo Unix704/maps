@@ -1032,5 +1032,25 @@
       "data/0.6.1/Tower Hour/screen_4_1782580846817.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978151-tower-hour-mini-game-mob-wave-defense-20-waves"
+  },
+  {
+    "title": "Duck Hunter Multiplayer Mini-Game",
+    "version": "0.6.1",
+    "short_description": "This one is called \"Duck Hunter\" it is a Halo 3 inspired mini game!",
+    "full_description": "(Map Creator: Khooplah)\n\nThe goal of this map is if you are a \"Duck\" you try to get into the armory up above you. You do this by walking on a narrow perch.\n\nIf you are a \"Hunter\" your goal is to shoot the ducks off, and kill them.\nRules:\n1. No hurting each other in the spawn area\n2. Ducks may kill each other if they want to XD\n3. Hunters cannot leave the room they go into\n4. Hunters may use all equipment available to them to survive including food and spider webs\n5. Go kill each other.",
+    "date": "2026-06-29 03:14",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Duck Hunter Multiplayer Mini-Game/thumb_1782702845379.jpg",
+    "file": "data/0.6.1/Duck Hunter Multiplayer Mini-Game/Duck Hunter Multiplayer Mini-Game.zip",
+    "screenshots": [
+      "data/0.6.1/Duck Hunter Multiplayer Mini-Game/screen_1_1782702847213.jpg",
+      "data/0.6.1/Duck Hunter Multiplayer Mini-Game/screen_2_1782702849006.jpg"
+    ],
+    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013.zip/Minecraft%20Pocket%20Edition%2F2013%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2Fbaa%2FDuck%20Hunter%20Multiplayer.zip",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977767-duck-hunter-multiplayer-mini-game-update"
   }
 ]
