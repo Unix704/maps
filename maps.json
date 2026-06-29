@@ -1016,22 +1016,23 @@
     "title": "Tower Hour",
     "version": "0.6.1",
     "short_description": "[mini game] [mob wave defense] [20+ waves] [from the creator of Dungeon-Craft]",
-    "full_description": "Tower Hour is my new mini game. It's a tower defense game, where you fight off waves of mobs. This map uses sand as redstone. There are 20 waves of mobs to defeat, all activated by sand. You also unlock chests with items and gear. This uses lots of mobs, so older devices may lag, so use lower settings if you experience any lag.",
+    "full_description": "(Map Creator: Furminator)\n\nTower Hour is my new mini game. It's a tower defense game, where you fight off waves of mobs. This map uses sand as redstone. There are 20 waves of mobs to defeat, all activated by sand. You also unlock chests with items and gear. This uses lots of mobs, so older devices may lag, so use lower settings if you experience any lag.",
     "date": "2026-06-27 17:20",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Tower Hour/thumb_1782580837308.jpg",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978151-tower-hour-mini-game-mob-wave-defense-20-waves",
     "file": "data/0.6.1/Tower Hour/Tower Hour.zip",
+    "thumbnail": "data/0.6.1/Tower Hour/thumb_1782580837308.jpg",
     "screenshots": [
       "data/0.6.1/Tower Hour/screen_1_1782580839455.jpg",
       "data/0.6.1/Tower Hour/screen_2_1782580842318.jpg",
       "data/0.6.1/Tower Hour/screen_3_1782580844267.jpg",
       "data/0.6.1/Tower Hour/screen_4_1782580846817.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978151-tower-hour-mini-game-mob-wave-defense-20-waves"
+    "updated_date": "2026-06-29 04:33"
   },
   {
     "title": "Duck Hunter Multiplayer Mini-Game",
