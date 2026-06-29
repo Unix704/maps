@@ -1141,5 +1141,23 @@
       "data/0.6.1/Temple of Notch Pocket Edition/screen_2_1782768637129.jpg"
     ],
     "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html"
+  },
+  {
+    "title": "PaintBall Red vs Blue",
+    "version": "0.7.2",
+    "short_description": "An awesome Paintball Red vs Blue PvP map! With a very unique alternative Redstone system that’s makes it feel more like Pc Minecraft!",
+    "full_description": "(Map Creator: FearFrankIOS)\n\nWon’t work with pocketmine\n\nRequires 2-10 players plus spectators",
+    "date": "2026-06-29 21:56",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.2/PaintBall Red vs Blue/thumb_1782770163957.jpg",
+    "file": "data/0.7.2/PaintBall Red vs Blue/PaintBall Red vs Blue.zip",
+    "screenshots": [
+      "data/0.7.2/PaintBall Red vs Blue/screen_1_1782770165695.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20161115063121/http://mcpeuniverse.com/maps/paintball-red-vs-blue-by-fearfrankios"
   }
 ]
