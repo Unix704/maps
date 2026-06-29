@@ -1195,5 +1195,26 @@
     "thumbnail": "data/0.8.1/Tech Talk’s mess coaster/thumb_1782774937528.jpg",
     "file": "data/0.8.1/Tech Talk’s mess coaster/Tech Talk’s mess coaster.zip",
     "original_link": "https://web.archive.org/web/20131211100426/http://mcpeuniverse.com/maps/tech-talks-mess-coaster/"
+  },
+  {
+    "title": "Aqua Fun Water Park",
+    "version": "0.8.1",
+    "short_description": "I decided to create a new waterpark! It's 5x bigger and better than H20!",
+    "full_description": "(Map Creator: christianmpce14)\n\nAqua FUN Waterpark includes:\n\nPARKING AREA :)\nTOY STORY THEMED SECTION\nRAINBONANZA SECTION\nTHE FISHTANK\nZOO\n2 GIANT WATERSLIDES\n2 ROLLERCOASTERS\nMORE THAN 25 WATERSLIDES\nCENTRAL PARK\nH20 HOTEL\nHOT SPRING AND SPA\nCHANGING ROOMS\nRESTO AND FOOD BOOTHS",
+    "date": "2026-06-29 23:58",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Aqua Fun Water Park/thumb_1782777473554.jpg",
+    "file": "data/0.8.1/Aqua Fun Water Park/Aqua Fun Water Park.rar",
+    "screenshots": [
+      "data/0.8.1/Aqua Fun Water Park/screen_1_1782777477240.jpg",
+      "data/0.8.1/Aqua Fun Water Park/screen_2_1782777481026.jpg",
+      "data/0.8.1/Aqua Fun Water Park/screen_3_1782777485319.jpg",
+      "data/0.8.1/Aqua Fun Water Park/screen_4_1782777488814.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1984212-aqua-fun-waterpark-now-with-video"
   }
 ]
