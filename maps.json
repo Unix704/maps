@@ -1122,5 +1122,24 @@
       "data/0.7.1/Skyblock Warriors PvP/screen_4_1782766706833.jpg"
     ],
     "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip"
+  },
+  {
+    "title": "Temple of Notch Pocket Edition",
+    "version": "0.6.1",
+    "short_description": " Fully working Temple of Notch for Pocket Edition. Based on the PC version by Disco",
+    "full_description": "(Map Creator: MCPEPorts)",
+    "date": "2026-06-29 21:30",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Temple of Notch Pocket Edition/thumb_1782768633654.jpg",
+    "file": "data/0.6.1/Temple of Notch Pocket Edition/Temple of Notch Pocket Edition.zip",
+    "screenshots": [
+      "data/0.6.1/Temple of Notch Pocket Edition/screen_1_1782768634773.jpg",
+      "data/0.6.1/Temple of Notch Pocket Edition/screen_2_1782768637129.jpg"
+    ],
+    "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html"
   }
 ]
