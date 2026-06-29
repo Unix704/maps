@@ -1075,5 +1075,26 @@
     ],
     "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201611%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2Fd3f%2Fdownload_w7y9r6j460gdwll_Castle_Von_Fatalis_creative_V16.zip",
     "original_link": "https://web.archive.org/web/20171227225745/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1975038-update-v-16-von_fatalis-castle-map-the-biggest"
+  },
+  {
+    "title": "Skylands Hunger Games PE",
+    "version": "0.5.0",
+    "short_description": "This is my first map for pocket edition. It is called Skylands Hunger Games and it it now finished!!!",
+    "full_description": "(Map Creator: Beast523)",
+    "date": "2026-06-29 18:29",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.5.0/Skylands Hunger Games PE/thumb_1782757783185.jpg",
+    "file": "data/0.5.0/Skylands Hunger Games PE/Skylands Hunger Games PE.zip",
+    "screenshots": [
+      "data/0.5.0/Skylands Hunger Games PE/screen_1_1782757785233.jpg",
+      "data/0.5.0/Skylands Hunger Games PE/screen_2_1782757787888.jpg",
+      "data/0.5.0/Skylands Hunger Games PE/screen_3_1782757789424.jpg",
+      "data/0.5.0/Skylands Hunger Games PE/screen_4_1782757790960.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1976784-skylands-hunger-games-pe-officially-released"
   }
 ]
