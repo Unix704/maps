@@ -1101,5 +1101,26 @@
       "data/0.5.0/Skylands Hunger Games PE/screen_4_1782757790960.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1976784-skylands-hunger-games-pe-officially-released"
+  },
+  {
+    "title": "Skyblock Warriors PvP",
+    "version": "0.7.1",
+    "short_description": "Original PC Map By SwipeShotTeam: https://www.planetminecraft.com/project/skyblock-warriors---4-skyblocks-4-teams-1-winner/",
+    "full_description": "(Map Creator: Skeletons_Gaming)",
+    "date": "2026-06-29 20:58",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.1/Skyblock Warriors PvP/thumb_1782766701006.jpg",
+    "file": "data/0.7.1/Skyblock Warriors PvP/Skyblock Warriors PvP.zip",
+    "screenshots": [
+      "data/0.7.1/Skyblock Warriors PvP/screen_1_1782766702330.jpg",
+      "data/0.7.1/Skyblock Warriors PvP/screen_2_1782766704069.jpg",
+      "data/0.7.1/Skyblock Warriors PvP/screen_3_1782766705399.jpg",
+      "data/0.7.1/Skyblock Warriors PvP/screen_4_1782766706833.jpg"
+    ],
+    "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip"
   }
 ]
