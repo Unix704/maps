@@ -1220,21 +1220,22 @@
   {
     "title": "Texture Pack Test World 0.8.1",
     "version": "0.8.1",
-    "short_description": "Texture pack world to test or see every textures",
-    "full_description": "(Map Creator: Unix704)",
+    "short_description": "Texture pack world to test or see every textures, This World is Specifically meant to work on ModifiedEight, The new additions are not included and don't plan to add them",
+    "full_description": "(Map Creator: Unix704)\n\nFlat Map Used:\n--------------------\n\nFlat World Without Village By Lethal_Zak: https://web.archive.org/web/20121004034957/http://www.minecraftforum.net/topic/1383995-superflat-pe-want-a-custom-superflat-map-also-i-can-port-pc-mapsrequests-resumed/\n\nFeel Free to also check out my Minecraft Pocket Edition Archive that is still a work in progress: http://www.nostalgiaforum.rf.gd/index.php?threads/588/&i=1",
     "date": "2026-06-30 02:28",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Texture Pack Test World 0.8.1/thumb_1782786517126.jpg",
+    "thumbnail": "data/0.8.1/Texture Pack Test World 0.8.1/thumb_1782791358840.jpg",
     "file": "data/0.8.1/Texture Pack Test World 0.8.1/Texture Pack Test World 0.8.1.zip",
     "screenshots": [
-      "data/0.8.1/Texture Pack Test World 0.8.1/screen_1_1782786520400.jpg",
-      "data/0.8.1/Texture Pack Test World 0.8.1/screen_2_1782786523568.jpg",
-      "data/0.8.1/Texture Pack Test World 0.8.1/screen_3_1782786525711.jpg",
-      "data/0.8.1/Texture Pack Test World 0.8.1/screen_4_1782786527349.jpg"
-    ]
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_1_1782791362534.jpg",
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_2_1782791365875.jpg",
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_3_1782791367614.jpg",
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_4_1782791368948.jpg"
+    ],
+    "updated_date": "2026-06-30 03:49"
   }
 ]
