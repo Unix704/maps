@@ -1216,5 +1216,25 @@
       "data/0.8.1/Aqua Fun Water Park/screen_4_1782777488814.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1984212-aqua-fun-waterpark-now-with-video"
+  },
+  {
+    "title": "Texture Pack Test World for ModifiedEight",
+    "version": "0.8.1",
+    "short_description": "Texture pack world to test or see every textures, This World is specifically meant to work on ModifiedEight, The new additions are also included behind the painting wall",
+    "full_description": "(Map Creator: Unix704)\n\nFlat Map Used:\n--------------------\n\nFlat World Without Village By Lethal_Zak: https://web.archive.org/web/20121004034957/http://www.minecraftforum.net/topic/1383995-superflat-pe-want-a-custom-superflat-map-also-i-can-port-pc-mapsrequests-resumed/\n\nFeel Free to also check out my Minecraft Pocket Edition Archive that is still a work in progress: http://www.nostalgiaforum.rf.gd/index.php?threads/588/&i=1",
+    "date": "2026-06-30 20:05",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Texture Pack Test World for ModifiedEight/thumb_1782849917384.jpg",
+    "file": "data/0.8.1/Texture Pack Test World for ModifiedEight/Texture Pack Test World for ModifiedEight.zip",
+    "screenshots": [
+      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_1_1782849920140.jpg",
+      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_2_1782849922289.jpg",
+      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_3_1782849923919.jpg",
+      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_4_1782849925453.jpg"
+    ]
   }
 ]
