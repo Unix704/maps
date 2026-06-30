@@ -1216,5 +1216,25 @@
       "data/0.8.1/Aqua Fun Water Park/screen_4_1782777488814.jpg"
     ],
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1984212-aqua-fun-waterpark-now-with-video"
+  },
+  {
+    "title": "Texture Pack Test World 0.8.1",
+    "version": "0.8.1",
+    "short_description": "Texture pack world to test or see every textures",
+    "full_description": "(Map Creator: Unix704)",
+    "date": "2026-06-30 02:28",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Texture Pack Test World 0.8.1/thumb_1782786517126.jpg",
+    "file": "data/0.8.1/Texture Pack Test World 0.8.1/Texture Pack Test World 0.8.1.zip",
+    "screenshots": [
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_1_1782786520400.jpg",
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_2_1782786523568.jpg",
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_3_1782786525711.jpg",
+      "data/0.8.1/Texture Pack Test World 0.8.1/screen_4_1782786527349.jpg"
+    ]
   }
 ]
