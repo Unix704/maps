@@ -867,13 +867,15 @@
     "title": "The Nether Reactor Adventure Map",
     "version": "0.6.1",
     "short_description": "This is the The nether reactor aventure map (ver 0.6.1 ) rules story and objectives",
-    "full_description": "(Map Creator: MysteryManSteve18) \n\nrules:\n\nYou're not allowed to build or break Blocks apart from the 4 gold blocks to complete the reactor aand cobwebs and melons for food!\nYou can place water block in the volcano to put out some of the lava and the 4 gold blocks and diamond blocks!\n\nIf you die you can try to find where you were !\nYou're allowed to set of tnt using flint and steel!\n\nHave fun!\n\n\n\nImportant info must read:\n\n1 to fix roof lighting glitch go to reacter dome\n and place a torch on the red obsidian tube coming out of the reacter.\n\n2 to get to the over world you must set of the reacter\n and escape it.then wait for water to spill down the red obsidian tube.\n\n3 then swim up the red obsidian tube in to in the over world.\n\nif you die and lose your gold block you will need to restart the map!!!!!!!!!!!!\n\nstory:\n\nOur adventurer, steve Spades,wakes up to find his world\nhas turned to hell and the villagers have turned in to monster.Because the last remaining active reactor has failed\nand has let the never and the overworld join as one!!!.\n\nBut there is hope as one reactor is not burned out.\nThere is one problem though the reactor is missing its 4 gold power blocks.\n\nsteve Spades must go to the 4 forbidden temples where he will have to \ntackle countless chalenges to get the 4 gold blocks and to save his village and world !.\n\nCan Steve collect the treasure of the temples?\nAnd also, will Steve live to fight another day?\n\ncompletion percentages\n\nEach gold block = 12.5% overall completion.\n\nEach diamond block in the over world = 12.5% overall completion.\n\nTo get the complet 100% get all 4 gold blocks and all 4 diamond blocks.\n\nplease leave comments and suggestions on the forms page.\n\n\nthis map was designed and created by Mystery man steve!",
+    "full_description": "(Map Creator: MysteryManSteve18) \n\nNOTE: if you play this map higher that 0.6.1, it will be unplayable due to lava igniting tnt at the wrong time\n\nrules:\n\nYou're not allowed to build or break Blocks apart from the 4 gold blocks to complete the reactor aand cobwebs and melons for food!\nYou can place water block in the volcano to put out some of the lava and the 4 gold blocks and diamond blocks!\n\nIf you die you can try to find where you were !\nYou're allowed to set of tnt using flint and steel!\n\nHave fun!\n\n\n\nImportant info must read:\n\n1 to fix roof lighting glitch go to reacter dome\n and place a torch on the red obsidian tube coming out of the reacter.\n\n2 to get to the over world you must set of the reacter\n and escape it.then wait for water to spill down the red obsidian tube.\n\n3 then swim up the red obsidian tube in to in the over world.\n\nif you die and lose your gold block you will need to restart the map!!!!!!!!!!!!\n\nstory:\n\nOur adventurer, steve Spades,wakes up to find his world\nhas turned to hell and the villagers have turned in to monster.Because the last remaining active reactor has failed\nand has let the never and the overworld join as one!!!.\n\nBut there is hope as one reactor is not burned out.\nThere is one problem though the reactor is missing its 4 gold power blocks.\n\nsteve Spades must go to the 4 forbidden temples where he will have to \ntackle countless chalenges to get the 4 gold blocks and to save his village and world !.\n\nCan Steve collect the treasure of the temples?\nAnd also, will Steve live to fight another day?\n\ncompletion percentages\n\nEach gold block = 12.5% overall completion.\n\nEach diamond block in the over world = 12.5% overall completion.\n\nTo get the complet 100% get all 4 gold blocks and all 4 diamond blocks.\n\nplease leave comments and suggestions on the forms page.\n\n\nthis map was designed and created by Mystery man steve!",
     "date": "2026-06-25 00:11",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
+    "original_link": "https://www.planetminecraft.com/project/060-compatible-nether-reactor-adventure-map-for-mc-pe-/",
+    "file": "data/0.6.1/The Nether Reactor Adventure Map/The Nether Reactor Adventure Map.zip",
     "thumbnail": "data/0.6.1/The Nether Reactor Adventure Map/thumb_1782852986872.jpg",
     "screenshots": [
       "data/0.6.1/The Nether Reactor Adventure Map/screen_1_1782852988311.jpg",
@@ -881,9 +883,7 @@
       "data/0.6.1/The Nether Reactor Adventure Map/screen_3_1782852991177.jpg",
       "data/0.6.1/The Nether Reactor Adventure Map/screen_4_1782852992406.jpg"
     ],
-    "original_link": "https://www.planetminecraft.com/project/060-compatible-nether-reactor-adventure-map-for-mc-pe-/",
-    "file": "data/0.6.1/The Nether Reactor Adventure Map/The Nether Reactor Adventure Map.zip",
-    "updated_date": "2026-06-30 20:56"
+    "updated_date": "2026-06-30 21:26"
   },
   {
     "title": "Toy Story 2 Adventure Map 1.2",
