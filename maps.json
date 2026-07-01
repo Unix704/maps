@@ -1218,5 +1218,24 @@
       "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_3_1782849923919.jpg",
       "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_4_1782849925453.jpg"
     ]
+  },
+  {
+    "title": "Never Ending Coaster (V4)",
+    "version": "0.8.1",
+    "short_description": "Version 4 of Tech Talk's Mess Coaster",
+    "full_description": "(Map Creator: Tch-Tlk)",
+    "date": "2026-07-01 01:53",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Never Ending Coaster (V4)/thumb_1782870814886.jpg",
+    "file": "data/0.8.1/Never Ending Coaster (V4)/Never Ending Coaster (V4).zip",
+    "screenshots": [
+      "data/0.8.1/Never Ending Coaster (V4)/screen_1_1782870816710.jpg",
+      "data/0.8.1/Never Ending Coaster (V4)/screen_2_1782870818456.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20131211100426/http://mcpeuniverse.com/maps/tech-talks-mess-coaster/"
   }
 ]
