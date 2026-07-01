@@ -299,7 +299,7 @@
   },
   {
     "title": "Dimension-Door",
-    "version": "0.7.3",
+    "version": "0.8.1",
     "short_description": "Dimension-Door [Prequel to Dungeon-Craft]",
     "full_description": "(Map Creator: Furminator)\n\nGo back to the past, before Dungeon-Craft and discover the events that take place before the adventure began. You are a magician that has been given a life-sentence in Dungeon-Craft, but you have a secret escape up your sleeve, a dimension door. The dimension door can teleport you through walls, and other dimensions. Will you escape, or never see the light of day again... adventure is knocking at Dimension-Door.",
     "date": "2026-06-24 03:42",
@@ -308,9 +308,9 @@
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
+    "file": "data/0.8.1/Dimension-Door/Dimension-Door.zip",
     "alt_link": "https://www.mediafire.com/download/j8k2tutty525nsz/Dimension-Door.zip",
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981720-dimension-door-prequel-to-dungeon-craft-updated",
-    "file": "data/0.7.3/Dimension-Door/Dimension-Door.zip",
     "thumbnail": "data/0.7.3/Dimension-Door/thumb_1782272547624.jpg",
     "screenshots": [
       "data/0.7.3/Dimension-Door/screen_1_1782272549361.jpg",
@@ -318,7 +318,7 @@
       "data/0.7.3/Dimension-Door/screen_3_1782272553458.jpg",
       "data/0.7.3/Dimension-Door/screen_4_1782272555507.jpg"
     ],
-    "updated_date": "2026-06-28 22:44"
+    "updated_date": "2026-07-01 02:27"
   },
   {
     "title": "Dungeon-Craft: TacoTony's Escape Part 1",
