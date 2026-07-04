@@ -1218,7 +1218,7 @@
   },
   {
     "title": "Mini Golf PE",
-    "version": "0.5.0",
+    "version": "0.4.0",
     "short_description": "Original PC map \"Yog-Golf\" ported to pocket edition",
     "full_description": "(Map Creator: MCPEPorts)\n\nHOW TO PLAY\n1. Get snowballs from the chests (tons at the beginning and by every hole)\n2. Stand on the obsidian in front of the hole\n3. Hold on the icon with the snowball to throw it\n4. watch it slide :D\n5. pick it up and do it again from that point\n6. Get it in the hole. (duh)\n\nNOTE: Its best if you only take 1 snowball from the chest at a time because if you have more than 1 in the item slot it will throw the whole stack.",
     "date": "2026-07-04 22:53",
@@ -1227,14 +1227,15 @@
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.5.0/Mini Golf PE/thumb_1783205594898.jpg",
+    "original_link": "https://minecraftpeworlds.blogspot.com/p/mini-golf.html",
     "file": "data/0.5.0/Mini Golf PE/Mini Golf PE.zip",
+    "thumbnail": "data/0.5.0/Mini Golf PE/thumb_1783205594898.jpg",
     "screenshots": [
       "data/0.5.0/Mini Golf PE/screen_1_1783205596107.jpg",
       "data/0.5.0/Mini Golf PE/screen_2_1783205597346.jpg",
       "data/0.5.0/Mini Golf PE/screen_3_1783205598576.jpg",
       "data/0.5.0/Mini Golf PE/screen_4_1783205599807.jpg"
     ],
-    "original_link": "https://minecraftpeworlds.blogspot.com/p/mini-golf.html"
+    "updated_date": "2026-07-04 23:28"
   }
 ]
