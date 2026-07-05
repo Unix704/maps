@@ -733,21 +733,22 @@
     "title": "Herobrines Mansion Map",
     "version": "0.6.1",
     "short_description": "PE Port of Herobrines Mansion Creative",
-    "full_description": "",
+    "full_description": "(Map Creator: BrahimL)",
     "date": "2026-06-24 23:30",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Herobrines Mansion Map/thumb_1782343790294.jpg",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978425-herobrines-mansion-over-30-000-download-on-mcpe",
     "file": "data/0.6.1/Herobrines Mansion Map/Herobrines Mansion Map.zip",
+    "thumbnail": "data/0.6.1/Herobrines Mansion Map/thumb_1782343790294.jpg",
     "screenshots": [
       "data/0.6.1/Herobrines Mansion Map/screen_1_1782343792122.jpg",
       "data/0.6.1/Herobrines Mansion Map/screen_2_1782343793760.jpg",
       "data/0.6.1/Herobrines Mansion Map/screen_3_1782343795604.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978425-herobrines-mansion-over-30-000-download-on-mcpe"
+    "updated_date": "2026-07-05 03:45"
   },
   {
     "title": "Mine York City 0.6.1",
