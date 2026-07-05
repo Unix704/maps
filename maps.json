@@ -733,7 +733,7 @@
     "title": "Herobrines Mansion Map",
     "version": "0.6.1",
     "short_description": "PE Port of Herobrines Mansion Creative",
-    "full_description": "(Map Creator: BrahimL)",
+    "full_description": "(Original Map Creator: Hypixel) \n\n(PE Creator: BrahimL)",
     "date": "2026-06-24 23:30",
     "type": "maps",
     "author": {
@@ -748,7 +748,7 @@
       "data/0.6.1/Herobrines Mansion Map/screen_2_1782343793760.jpg",
       "data/0.6.1/Herobrines Mansion Map/screen_3_1782343795604.jpg"
     ],
-    "updated_date": "2026-07-05 03:45"
+    "updated_date": "2026-07-05 04:18"
   },
   {
     "title": "Mine York City 0.6.1",
