@@ -627,7 +627,7 @@
     "title": "Sonic The Hedgehog Minigame Sprint Parkour",
     "version": "0.6.1",
     "short_description": "FVDisco's Sonic The Hedgehog Minigame [sprint parkour] [ported from pc]",
-    "full_description": "(Map Creator: MCMan132)\n\nThis is the Sonic the Hedgehog minigame.This map was made on PC by FVDisco. I ported and edited this map.This is a If you want to play this map,you have to download the sprint mod.The objective of this map is to complete the course in the best time possible.Play in creative.If you fall,fly back to the last block you were on.",
+    "full_description": "(Original Map Creator: FVDisco) \n\n(PE Creator: MCMan132)\n\nThis is the Sonic the Hedgehog minigame.This map was made on PC by FVDisco. I ported and edited this map.This is a If you want to play this map,you have to download the sprint mod.The objective of this map is to complete the course in the best time possible.Play in creative.If you fall,fly back to the last block you were on.",
     "date": "2026-06-24 22:36",
     "type": "maps",
     "author": {
@@ -642,7 +642,7 @@
       "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_2_1782340592112.jpg",
       "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_3_1782340593751.jpg"
     ],
-    "updated_date": "2026-06-28 23:13"
+    "updated_date": "2026-07-05 04:14"
   },
   {
     "title": "Super Mario Bros parkour map",
