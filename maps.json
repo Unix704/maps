@@ -1074,22 +1074,23 @@
     "title": "Skyblock Warriors PvP",
     "version": "0.7.1",
     "short_description": "Original PC Map By SwipeShotTeam: https://www.planetminecraft.com/project/skyblock-warriors---4-skyblocks-4-teams-1-winner/",
-    "full_description": "(Map Creator: Skeletons_Gaming)",
+    "full_description": "(Original Map Creator: SwipeShotTeam)\n\n(PE Creator: Skeletons_Gaming)",
     "date": "2026-06-29 20:58",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.7.1/Skyblock Warriors PvP/thumb_1782766701006.jpg",
+    "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip",
     "file": "data/0.7.1/Skyblock Warriors PvP/Skyblock Warriors PvP.zip",
+    "thumbnail": "data/0.7.1/Skyblock Warriors PvP/thumb_1782766701006.jpg",
     "screenshots": [
       "data/0.7.1/Skyblock Warriors PvP/screen_1_1782766702330.jpg",
       "data/0.7.1/Skyblock Warriors PvP/screen_2_1782766704069.jpg",
       "data/0.7.1/Skyblock Warriors PvP/screen_3_1782766705399.jpg",
       "data/0.7.1/Skyblock Warriors PvP/screen_4_1782766706833.jpg"
     ],
-    "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip"
+    "updated_date": "2026-07-05 04:27"
   },
   {
     "title": "Temple of Notch Pocket Edition",
