@@ -776,7 +776,7 @@
     "title": "Hogwarts Map",
     "version": "0.6.1",
     "short_description": "Welcome to the School of Witchcraft and Wizardry ",
-    "full_description": "(Map Creator: MCPEPorts)",
+    "full_description": "(Original Map Creator: khamelion81)\n\n(PE Creator: MCPEPorts)",
     "date": "2026-06-24 23:50",
     "type": "maps",
     "author": {
@@ -791,7 +791,7 @@
       "data/0.6.1/Hogwarts Map/screen_2_1782345031638.jpg",
       "data/0.6.1/Hogwarts Map/screen_3_1782345033218.jpg"
     ],
-    "updated_date": "2026-06-28 23:21"
+    "updated_date": "2026-07-05 04:20"
   },
   {
     "title": "Redstone Alternative Tutorial Map",
