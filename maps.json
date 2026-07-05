@@ -1096,20 +1096,21 @@
     "title": "Temple of Notch Pocket Edition",
     "version": "0.6.1",
     "short_description": " Fully working Temple of Notch for Pocket Edition. Based on the PC version by Disco",
-    "full_description": "(Map Creator: MCPEPorts)",
+    "full_description": "(Original Map Creator: FVDisco)\n\n(PE Creator: MCPEPorts)",
     "date": "2026-06-29 21:30",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Temple of Notch Pocket Edition/thumb_1782768633654.jpg",
+    "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html",
     "file": "data/0.6.1/Temple of Notch Pocket Edition/Temple of Notch Pocket Edition.zip",
+    "thumbnail": "data/0.6.1/Temple of Notch Pocket Edition/thumb_1782768633654.jpg",
     "screenshots": [
       "data/0.6.1/Temple of Notch Pocket Edition/screen_1_1782768634773.jpg",
       "data/0.6.1/Temple of Notch Pocket Edition/screen_2_1782768637129.jpg"
     ],
-    "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html"
+    "updated_date": "2026-07-05 04:29"
   },
   {
     "title": "PaintBall Red vs Blue",
