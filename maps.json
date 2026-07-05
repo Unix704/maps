@@ -690,7 +690,7 @@
     "title": "The Teacher minigame",
     "version": "0.6.1",
     "short_description": "The Teacher is a minigame made by NoahCraftFTW for the pc",
-    "full_description": "(Map Creator: MCMan132)\n\nThe Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
+    "full_description": "(Original Map Creator: NoahCraftFTW)\n\n(PE Creator: MCMan132)\n\nThe Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
     "date": "2026-06-24 23:09",
     "type": "maps",
     "author": {
@@ -706,7 +706,7 @@
       "data/0.6.1/The Teacher minigame/screen_3_1782342593625.jpg",
       "data/0.6.1/The Teacher minigame/screen_4_1782342595658.jpg"
     ],
-    "updated_date": "2026-07-05 03:43"
+    "updated_date": "2026-07-05 04:17"
   },
   {
     "title": "Multi Run Mini Game [4 races in 1 map!]",
