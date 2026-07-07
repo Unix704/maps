@@ -1227,5 +1227,27 @@
       "data/0.5.0/Mini Golf PE/screen_4_1783205599807.jpg"
     ],
     "updated_date": "2026-07-05 04:31"
+  },
+  {
+    "title": "iMini Games Park V6 by Maftzer",
+    "version": "0.8.1",
+    "short_description": "With Many Popular Mini Games Like Cops N’ Robbers, Battle Ladder, Spleef, PvP And More!",
+    "full_description": "(Map Creator: Maftzer)\n\niMini Games Park Beta Love Playing Mini Games? But Dont Want To Be Downloading Many Maps? Dont Want To Run Out Of Memory? Well Now You Dont Have To Worry About Any Of Does Problem With Mini Games Park You Will Be Entertain For Hours!\n\nWith Many Popular Mini Games Like Cops N’ Robbers, Battle Ladder, Spleef, PvP And More!\n\nYou Wont Get Bored :) Like The Map?",
+    "date": "2026-07-07 23:40",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/iMini Games Park V6 by Maftzer/thumb_1783467634424.jpg",
+    "file": "data/0.8.1/iMini Games Park V6 by Maftzer/iMini Games Park V6 by Maftzer.zip",
+    "screenshots": [
+      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_1_1783467635834.jpg",
+      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_2_1783467637374.jpg",
+      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_3_1783467638909.jpg",
+      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_4_1783467640341.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20141027041802/http://mcpeuniverse.com/maps/imini-games-park-v6-new-feb-2",
+    "license": "@Maftzer3 Map Maker 2011"
   }
 ]
