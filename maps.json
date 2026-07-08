@@ -1286,5 +1286,25 @@
       "data/0.8.1/xPoizon’s City/screen_3_1783481761059.jpg"
     ],
     "original_link": "https://web.archive.org/web/20140708052615/http://mcpeuniverse.com/maps/xpoizons-city/"
+  },
+  {
+    "title": "Hot Sand Minigame",
+    "version": "0.7.6",
+    "short_description": "MCPE minigame by Annyske007",
+    "full_description": "(Map Creator: Annyske007)\n\nVideo by Moopig: https://youtu.be/7xTI9x5KlDw?si=jFkF6lLU9edAgu4I\n\nHello guys, this is my new minigame. In this minigame you have to use flint&steel to burn the roof, the roof is made out of wood and it holds sand. the sand will randomly fall. You win if you are the last person to suffecate.\n\nAll the rules are inside the map itself on signs!",
+    "date": "2026-07-08 04:23",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.7.6/Hot Sand Minigame/thumb_1783484618032.jpg",
+    "file": "data/0.7.6/Hot Sand Minigame/Hot Sand Minigame.zip",
+    "screenshots": [
+      "data/0.7.6/Hot Sand Minigame/screen_1_1783484619111.jpg",
+      "data/0.7.6/Hot Sand Minigame/screen_2_1783484620090.jpg",
+      "data/0.7.6/Hot Sand Minigame/screen_3_1783484621319.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20131123062056/https://mcpeuniverse.com/maps/hot-sand-minecraft-pe-minigame-by-annyske007/"
   }
 ]
