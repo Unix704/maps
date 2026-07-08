@@ -1207,5 +1207,26 @@
       "data/0.8.1/Camp Puzzlemaca by East/screen_2_1783480398245.jpg"
     ],
     "original_link": "https://web.archive.org/web/20140719065611/http://mcpeuniverse.com/maps/camp-puzzlemaca-adventurepuzzleparkour/"
+  },
+  {
+    "title": "Aqua Fun Water Park",
+    "version": "0.8.1",
+    "short_description": "I decided to create a new waterpark! It's 5x bigger and better than H20!",
+    "full_description": "(Map Creator: christianmpce14)\n\nAqua FUN Waterpark includes:\n\nPARKING AREA :)\nTOY STORY THEMED SECTION\nRAINBONANZA SECTION\nTHE FISHTANK\nZOO\n2 GIANT WATERSLIDES\n2 ROLLERCOASTERS\nMORE THAN 25 WATERSLIDES\nCENTRAL PARK\nH20 HOTEL\nHOT SPRING AND SPA\nCHANGING ROOMS\nRESTO AND FOOD BOOTHS",
+    "date": "2026-07-08 03:19",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Aqua Fun Water Park/thumb_1783480742741.jpg",
+    "file": "data/0.8.1/Aqua Fun Water Park/Aqua Fun Water Park.zip",
+    "screenshots": [
+      "data/0.8.1/Aqua Fun Water Park/screen_1_1783480746223.jpg",
+      "data/0.8.1/Aqua Fun Water Park/screen_2_1783480749299.jpg",
+      "data/0.8.1/Aqua Fun Water Park/screen_3_1783480752467.jpg",
+      "data/0.8.1/Aqua Fun Water Park/screen_4_1783480754924.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1984212-aqua-fun-waterpark-now-with-video"
   }
 ]
