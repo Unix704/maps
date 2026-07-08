@@ -503,7 +503,7 @@
     "title": "McDonald’s Parkour",
     "version": "0.8.1",
     "short_description": "Can you use your parkour skills and brain to get to the happy meal. Don’t forget to eat yr carrots",
-    "full_description": "(Map Creator: SuperpigCreator)",
+    "full_description": "(Original World Creator: JackFrostMiner)\n\n(Map Creator: SuperpigCreator)",
     "date": "2026-06-24 21:17",
     "type": "maps",
     "author": {
@@ -516,7 +516,7 @@
     "screenshots": [
       "data/0.8.1/McDonald’s Parkour/screen_1_1782335815118.jpg"
     ],
-    "updated_date": "2026-06-28 23:09"
+    "updated_date": "2026-07-08 15:56"
   },
   {
     "title": "Epic Sprint Map",
