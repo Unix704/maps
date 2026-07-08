@@ -1154,5 +1154,20 @@
     ],
     "original_link": "https://web.archive.org/web/20141027041802/http://mcpeuniverse.com/maps/imini-games-park-v6-new-feb-2",
     "license": "@Maftzer3 Map Maker 2011"
+  },
+  {
+    "title": "Tech Talk’s mess coaster",
+    "version": "0.8.1",
+    "short_description": "This is the most messiest coaster I think, there’s minimal screenshots as this will spoil the surprise, enjoy and be sure to watch in third person view for a full view.",
+    "full_description": "(Map Creator: Tch-Tlk)",
+    "date": "2026-07-08 02:59",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Tech Talk’s mess coaster/thumb_1783479553220.jpg",
+    "file": "data/0.8.1/Tech Talk’s mess coaster/Tech Talk’s mess coaster.zip",
+    "original_link": "https://web.archive.org/web/20131211100426/http://mcpeuniverse.com/maps/tech-talks-mess-coaster/"
   }
 ]
