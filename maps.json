@@ -1169,5 +1169,24 @@
     "thumbnail": "data/0.8.1/Tech Talk’s mess coaster/thumb_1783479553220.jpg",
     "file": "data/0.8.1/Tech Talk’s mess coaster/Tech Talk’s mess coaster.zip",
     "original_link": "https://web.archive.org/web/20131211100426/http://mcpeuniverse.com/maps/tech-talks-mess-coaster/"
+  },
+  {
+    "title": "Capture the Wool PE",
+    "version": "0.6.1",
+    "short_description": "Converted by Serperior",
+    "full_description": "(Original PC Map Creator: PeteZahHutt)\n\n(PE Creator: Serperior)\n\nWelcome to the topic that is home to a Capture the Wool map that took a while to convert to Pocket Edition! I spent weeks on this and would appreciate the support if you decided to download!",
+    "date": "2026-07-08 03:07",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Capture the Wool PE/thumb_1783480070963.jpg",
+    "file": "data/0.6.1/Capture the Wool PE/Capture the Wool PE.zip",
+    "screenshots": [
+      "data/0.6.1/Capture the Wool PE/screen_1_1783480072189.jpg",
+      "data/0.6.1/Capture the Wool PE/screen_2_1783480073312.jpg"
+    ],
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979715-capture-the-wool-very-fun-pvp-madness"
   }
 ]
